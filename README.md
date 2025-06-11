@@ -28,14 +28,12 @@ The following **additional** features are implemented:
 
 <div>
     <a href="https://www.loom.com/share/f22ef819abec4e849389d0b4ff84e80d">
-      <p>Loom Message - 11 June 2025 - Watch Video</p>
+      <p>11 June 2025 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/f22ef819abec4e849389d0b4ff84e80d">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f22ef819abec4e849389d0b4ff84e80d-76758b799c7a110e-full-play.gif">
     </a>
   </div>
-https://www.loom.com/embed/f22ef819abec4e849389d0b4ff84e80d?sid=f609d163-34c8-476c-abe0-90e5c21face0
-
 
 ## Notes
 
