@@ -25,9 +25,16 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-11 June 2025 - Watch Video
 
-<div style="position: relative; padding-bottom: 215.0753768844221%; height: 0;"><iframe src="https://www.loom.com/embed/f22ef819abec4e849389d0b4ff84e80d?sid=f609d163-34c8-476c-abe0-90e5c21face0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/f22ef819abec4e849389d0b4ff84e80d">
+      <p>Loom Message - 11 June 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/f22ef819abec4e849389d0b4ff84e80d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f22ef819abec4e849389d0b4ff84e80d-76758b799c7a110e-full-play.gif">
+    </a>
+  </div>
+https://www.loom.com/embed/f22ef819abec4e849389d0b4ff84e80d?sid=f609d163-34c8-476c-abe0-90e5c21face0
 
 
 ## Notes
